@@ -1,10 +1,14 @@
 .title{
-    font-size: 65px;
+    padding: 90px;
 }
 
 
 
 h2 {
+
+    width: 60%;
+    padding: 20px;
+    font-size: 35px;
     background-color: slategrey;
     color: #ffffff;
 }
